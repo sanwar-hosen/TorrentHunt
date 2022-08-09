@@ -101,7 +101,7 @@ See [LICENSE](LICENSE) for more information.
 * Clone the repository, create a virtual environment, and install the requirements
 
     ```bash
-    git clone https://github.com/hemantapkh/torrenthunt && virtualenv env && source env/bin/activate && cd torrenthunt && pip install -r requirements.txt
+    git clone https://github.com/sanwar-hosen/TorrentHunt && virtualenv env && source env/bin/activate && cd torrenthunt && pip install -r requirements.txt
     ```
 
 * Host the [Torrents-API](https://github.com/Ryuk-me/Torrents-Api) on your own server for better performance or leave it default. This API will be used for inline query only.
